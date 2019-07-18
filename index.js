@@ -2,7 +2,7 @@ var uppercase, lowercase
 
 function shout(string) {
   uppercase = string.toUpperCase();
-  string = uppercase
+  string = uppercase;
   return uppercase;
 }
 function whisper(string) {
